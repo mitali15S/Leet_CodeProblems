@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
 | ------- |
