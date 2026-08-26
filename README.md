@@ -142,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [1045-customers-who-bought-all-products](https://github.com/mitali15S/Leet_CodeProblems/tree/master/1045-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
