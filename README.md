@@ -147,4 +147,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0608-tree-node](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0608-tree-node) |
 | [1045-customers-who-bought-all-products](https://github.com/mitali15S/Leet_CodeProblems/tree/master/1045-customers-who-bought-all-products) |
+| [1341-movie-rating](https://github.com/mitali15S/Leet_CodeProblems/tree/master/1341-movie-rating) |
 <!---LeetCode Topics End-->
