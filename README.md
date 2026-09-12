@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0031-next-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0031-next-permutation) |
 ## Sorting
 |  |
 | ------- |
