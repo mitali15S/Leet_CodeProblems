@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2485-find-the-pivot-integer](https://github.com/mitali15S/Leet_CodeProblems/tree/master/2485-find-the-pivot-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/mitali15S/Leet_CodeProblems/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
