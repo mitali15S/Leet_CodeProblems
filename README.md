@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mitali15S/Leet_CodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Two Pointers
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mitali15S/Leet_CodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bracket Sequences
 |  |
