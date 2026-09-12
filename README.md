@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [1441-build-an-array-with-stack-operations](https://github.com/mitali15S/Leet_CodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0032-longest-valid-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/mitali15S/Leet_CodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0608-tree-node) |
 | [1045-customers-who-bought-all-products](https://github.com/mitali15S/Leet_CodeProblems/tree/master/1045-customers-who-bought-all-products) |
 | [1341-movie-rating](https://github.com/mitali15S/Leet_CodeProblems/tree/master/1341-movie-rating) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/mitali15S/Leet_CodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
