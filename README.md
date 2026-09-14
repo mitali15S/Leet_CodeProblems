@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0036-valid-sudoku) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0636-exclusive-time-of-functions) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0036-valid-sudoku) |
 ## Linked List
 |  |
 | ------- |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/mitali15S/Leet_CodeProblems/tree/master/2485-find-the-pivot-integer) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
