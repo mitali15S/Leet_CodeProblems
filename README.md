@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0047-permutations-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0636-exclusive-time-of-functions) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0047-permutations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0047-permutations-ii) |
 ## Stack
 |  |
 | ------- |
