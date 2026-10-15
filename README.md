@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0636-exclusive-time-of-functions) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
