@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0636-exclusive-time-of-functions) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0036-valid-sudoku) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
