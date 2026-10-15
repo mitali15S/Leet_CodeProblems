@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0636-exclusive-time-of-functions) |
@@ -134,11 +135,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
