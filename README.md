@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mitali15S/Leet_CodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mitali15S/Leet_CodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -235,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0051-n-queens) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mitali15S/Leet_CodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
