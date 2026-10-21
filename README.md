@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2235-add-two-integers](https://github.com/mitali15S/Leet_CodeProblems/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/mitali15S/Leet_CodeProblems/tree/master/2485-find-the-pivot-integer) |
 | [3871-count-commas-in-range-ii](https://github.com/mitali15S/Leet_CodeProblems/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
