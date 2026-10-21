@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0412-fizz-buzz](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/mitali15S/Leet_CodeProblems/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/mitali15S/Leet_CodeProblems/tree/master/2485-find-the-pivot-integer) |
 | [3871-count-commas-in-range-ii](https://github.com/mitali15S/Leet_CodeProblems/tree/master/3871-count-commas-in-range-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/mitali15S/Leet_CodeProblems/tree/master/1108-defanging-an-ip-address) |
 ## Sliding Window
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0412-fizz-buzz) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mitali15S/Leet_CodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
