@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0217-contains-duplicate) |
 | [0636-exclusive-time-of-functions](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mitali15S/Leet_CodeProblems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
