@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -259,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/mitali15S/Leet_CodeProblems/tree/master/2073-time-needed-to-buy-tickets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/mitali15S/Leet_CodeProblems/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
